@@ -8,6 +8,9 @@ class Shoe
   end
  
   def condition
-    puts "the shoe has been repaired!"
-  end
+    puts "c"
+  end 
+  def cobble 
+    puts ""
+    end 
 end
